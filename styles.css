@@ -1,0 +1,169 @@
+@font-face{
+    src: url("Modennta.woff");
+    font-family: 'Modennta';
+}
+body {
+    font-family: 'Kaushan Script', cursive;
+    font-size: large;
+    background-image: url(about.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.table {
+    font-family: 'Quick Sand', sans-serif;
+    margin: auto;
+    color: rgb(7, 32, 193);
+}
+h1, h3 {
+    font-family: 'Lobster', cursive;
+}
+
+#nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+}
+#nav li {
+    float: left;
+}
+#nav li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Chicle', cursive;
+}
+#nav li a:hover{
+    background-color: rgb(29, 105, 226);
+    color: gold;
+}
+#content{
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgba(255, 255, 255, 1);
+    width: 58%;
+}
+#content ul, #content ol{
+    width: 20%;
+    margin:auto;
+    text-align: left;
+}
+.home{
+    background-image: url(Homeground.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+.white{
+    color: white;
+}
+.home .title{
+    font-size: 250px;
+    color: white;
+    font-family: 'Modennta';
+    margin-bottom: -1px;
+}
+.big{
+    font-size: 80px;
+    margin-bottom: -20px;
+}
+.port {
+     font-family: 'Spirax', cursive;
+     text-align: center;
+     font-size: 80px;
+} 
+.quote{
+    color: rgb(109, 15, 15);
+}
+h2 {
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+}
+.resume{
+    text-align: center;
+    background-image: url(backgroundimages.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+a {
+    text-decoration: none; 
+    color: aqua;
+}
+a:hover {
+    color: white;
+}
+.vibe{
+    font-family: 'Great Vibes', cursive;
+    font-size: 95px;
+    margin-bottom: -24px;
+}
+.mai{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 18px;
+}
+h4 {
+    font-size: 25px;
+}
+.text {
+    font-size: 22px;
+}
+.large{
+    font-size: 30px;
+    margin-bottom: -8px;
+}
+#killa{
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.4);
+    font-family: 'Niconne', cursive;
+}
+#killa ul{
+    width: 30%;
+    margin:auto;
+    text-align: left;
+}
+.mail{
+    font-family: 'Philosopher', sans-serif;
+    color: white;
+    margin-bottom: -25px;
+}
+.bummer{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 35px;
+}
+.bummer2{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 25px;
+}
+.large2{
+    font-size: 30px;
+}
+.text2{
+    font-size: 25px;
+}
+.portfolio{
+    background-image: url(download.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.white{
+    color: white;
+}
