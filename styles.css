@@ -83,13 +83,16 @@ h1, h3 {
      font-family: 'Spirax', cursive;
      text-align: center;
      font-size: 80px;
+     color: white;
 } 
 .quote{
     color: rgb(109, 15, 15);
 }
-h2 {
+h2{
     font-family: 'Bad Script', cursive;
+    font-size: 50px;
     text-align: center;
+    color: white;
 }
 .resume{
     text-align: center;
@@ -166,4 +169,37 @@ h4 {
 }
 .white{
     color: white;
+}
+.orig{
+    text-align: center;
+    border-style: hidden;
+    border-width: 4px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    width: 62%;
+}
+.bad{
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+    color: white;
+}
+.pbad{
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+    color: white;
+    font-size: 21px;
+}
+.pbad2{
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+}
+.chic{
+    font-family: 'Emblema One', cursive;
+    text-align: center;
+    color: white;
+    font-size: 25px;
 }
