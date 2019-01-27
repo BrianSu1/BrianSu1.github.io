@@ -163,8 +163,8 @@ h4 {
     font-size: 25px;
 }
 .portfolio{
-    background-image: url(download.jpg);
-    background-size: 100%;
+    background-image: url(download.png);
+    background-size: 110%;
     background-attachment: fixed;
 }
 .white{
@@ -202,4 +202,9 @@ h4 {
     text-align: center;
     color: white;
     font-size: 25px;
+}
+#dep{
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+    color: white;
 }
